@@ -32,7 +32,7 @@
     background-image: url("../images/tshirt.jpg");
     height: 85vh;
     background-size: cover;
-    background-position: bottom;
+    background-position: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
