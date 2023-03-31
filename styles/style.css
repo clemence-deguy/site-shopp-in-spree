@@ -1,0 +1,25 @@
+@import "banner.css";
+@import "button.css";
+@import "cards.css";
+@import "footer.css";
+@import"search-banner.css";
+@import"about-us.css";
+@import"onglet.css";
+@import"discover.css";
+
+
+body{
+    margin: 0;
+}
+a{
+    text-decoration: none !important;
+}
+
+.container{
+    width: 75%;
+    margin: 48px auto;
+}
+
+li{
+    list-style: none;
+}

@@ -1,0 +1,74 @@
+.banner {
+    background-image: url("../images/banner.jpg");
+    height: 85vh;
+    background-size: cover;
+    background-position: top;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner h1, .banner p, .banner-discover, .banner-tops, .banner-dress, .banner-jeans, .banner-collection{
+    color: black;
+    font-size: 48px;
+    font-weight: bold;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+
+.banner-discover {
+    background-image: url("../images/discover.jpg");
+    height: 85vh;
+    background-size: cover;
+    background-position: bottom;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-tops {
+    background-image: url("../images/tshirt.jpg");
+    height: 85vh;
+    background-size: cover;
+    background-position: bottom;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.banner-dress {
+    background-image: url("../images/dress.jpg");
+    height: 85vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.banner-jeans {
+    background-image: url("../images/jean1.jpg");
+    height: 85vh;
+    background-size: cover;
+    background-position: top;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-collection {
+    background-image: url("../images/new-collection.jpg");
+    height: 85vh;
+    background-size: cover;
+    background-position: top;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
