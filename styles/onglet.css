@@ -1,6 +1,8 @@
 .tabs-underlined {
     display: flex;
     align-items: center;
+    width: 100%;
+    overflow-x: scroll;
   }
   
   .tabs-underlined .tab-underlined {
